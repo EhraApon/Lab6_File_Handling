@@ -1,0 +1,5 @@
+Student: Apon
+Student ID: TUPM-26-1876
+Seed digit: 6
+ID sum: 30
+Verification Value: 126

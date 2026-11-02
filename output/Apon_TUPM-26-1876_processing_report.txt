@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Apon
+Student ID: TUPM-26-1876
+Seed Digit: 6
+ID Sum: 30
+Verification Value: 126
+Dataset Sample Size: 80
+Valid Records: 80
+Average Global Active Power: 3.929
+JSON File: Apon_TUPM-26-1876_record.json
+Backup File: Apon_TUPM-26-1876_record.csv
